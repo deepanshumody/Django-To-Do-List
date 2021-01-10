@@ -6,7 +6,7 @@
 ```
 pip3 install --user git+https://github.com/pypa/pipenv.git
 cd ~/dev
-git clone git@github.com:shacker/gtd.git
+git clone git@github.com:https:dmod99/Django_To_Do
 cd Django_To_Do
 cd gtd-master
 pipenv --python 3.6   # Initializes the virtual environment
