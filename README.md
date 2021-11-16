@@ -30,7 +30,6 @@ Then:
 `./manage.py migrate`
 
 ## Sample Screenshots
-
-![image](https://user-images.githubusercontent.com/39831386/141997003-4c79817f-9989-467f-bcb0-8a6f9360688e.png)
+![image](https://user-images.githubusercontent.com/39831386/141997520-2803135d-3276-433d-bb76-17ab61df094f.png)
 ![image](https://user-images.githubusercontent.com/39831386/141997400-3b87027a-f953-4b86-8fd4-1b43c4fd6906.png)
 
