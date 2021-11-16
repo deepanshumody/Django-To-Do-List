@@ -28,3 +28,8 @@ DATABASES = {
 Then:
 
 `./manage.py migrate`
+
+## Sample Screenshot
+
+![image](https://user-images.githubusercontent.com/39831386/141997003-4c79817f-9989-467f-bcb0-8a6f9360688e.png)
+
